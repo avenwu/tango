@@ -18,7 +18,7 @@ Tango助手基于Chrome Extension技术开发，可以在我们查阅bug详情�
 [Tango](https://chrome.google.com/webstore/detail/tango%E5%8A%A9%E6%89%8B/ajbggbknkpkoehfmnjjebeonbjedlgmm?utm_source=chrome-ntp-icon)
 
 ```
-众所周知原因，需要科学上网才能使用Chrome App Store。
+众所周知的原因，需要科学上网才能访问Chrome Web Store。
 ```
 
 <video autoplay="autoplay" width="100%" height="auto" loop="loop" controls="">
