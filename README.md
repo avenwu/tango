@@ -4,7 +4,6 @@ Tango助手基于Chrome Extension技术开发，可以在我们查阅bug详情�
 - RD分析bug日志的时候，不需要理解我们定制信息背后的协议格式和字段含义；
 - 整个提取过程是自动处理的，并可以通过UI界面将核心数据展示出来；
 
-
 ### 版本
 
 版本号 | 时间 | 备注
@@ -15,12 +14,17 @@ Tango助手基于Chrome Extension技术开发，可以在我们查阅bug详情�
 
 ### 安装
 
-推荐使用Web Store安装
-[Tango On WebStore](https://chrome.google.com/webstore/detail/tango%E5%8A%A9%E6%89%8B/ajbggbknkpkoehfmnjjebeonbjedlgmm?utm_source=chrome-ntp-icon)
+推荐使用`Chrome Web Store`安装:
+[Tango](https://chrome.google.com/webstore/detail/tango%E5%8A%A9%E6%89%8B/ajbggbknkpkoehfmnjjebeonbjedlgmm?utm_source=chrome-ntp-icon)
 
 ```
 众所周知原因，需要科学上网才能使用Chrome App Store。
 ```
+
+<video autoplay="autoplay" width="100%" height="auto" loop="loop" controls="">
+<source src="http://7u2jir.com1.z0.glb.clouddn.com/img/tango-helper介绍视频.mov" type="video/mp4">
+您的浏览器不支持 video 标签。
+</video>
 
 如果无法访问Web Store，则通过手工安装：需要先下载crx安装包，然后从本地安装。
 
